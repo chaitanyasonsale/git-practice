@@ -6,6 +6,8 @@
 -git add:
 -git commit
 -git config
+-git branch
+-git checkout
 
 -git checkout: check out branches and apply changesto working directory.
 - git revision:
