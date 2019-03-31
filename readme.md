@@ -10,7 +10,7 @@
 -git checkout: check out branches and apply changesto working directory.
 - git revision:
 -git merge: used for solving merge conflicts
--git history: show a history of aka log of the file
+-git history: show a newer history of aka log of the file
 ## commit messages
 
 Default editor is vim
