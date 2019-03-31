@@ -7,6 +7,7 @@
 -git commit
 -git config
 -git branch
+-git checkout: check out( update head)
 -git checkout -b: create branch then checkout
 
 ## What is a branch
