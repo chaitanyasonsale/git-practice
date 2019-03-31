@@ -19,3 +19,7 @@ Default editor is vim
 -'Esc' ->
 
 Or use 'git commit -m ""'
+
+## Merging
+
+Merging means to bring the changes from one branch into another
