@@ -6,6 +6,8 @@
 -git add:
 -git commit
 -git config
+-git branch
+-git checkout
 
 ## commit messages
 
