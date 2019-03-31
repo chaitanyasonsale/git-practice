@@ -12,6 +12,8 @@
 -git stash pop
 -git checkout: check out( update head)
 -git checkout -b: create branch then checkout
+-git push
+-git remote -V
 
 ## What is a branch
 
