@@ -15,10 +15,13 @@
 ## What is a reference
 
 -git checkout: check out branches and apply changesto working directory.
-- git revision:
+-git show: show the details of a single commit
+-git dif: show the diff between working dir and committed code, or between staging area and committed code or between 2 different commits
 -git merge: used for solving merge conflicts
 -git history: show a newer history of aka log of the file
 -git merge: Auto merge when GIT is able to reconcile the differences on its own.
+-git checkout: check out branches and apply changesto working directory.
+## git revision: not a command
 ## commit messages
 
 Default editor is vim
