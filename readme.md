@@ -15,6 +15,7 @@
 -git push
 -git remote -V
 -git fetch
+-git pull
 
 ## What is a branch
 
@@ -43,3 +44,5 @@ a fast forward merge happens when the target branch was merged from the current 
 adding info about merge to check if merge works correctly..again
 
 adding info and going to delete merge-demo branch
+
+##what is a remote repo?
