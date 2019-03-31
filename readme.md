@@ -22,4 +22,4 @@ Or use 'git commit -m ""'
 
 a fast forward merge happens when the target branch was merged from the current branch and there are no changes in the current branch since then
 
-adding info about merge to check if merge works correctly
+adding info about merge to check if merge works correctly..again
