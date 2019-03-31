@@ -1,0 +1,66 @@
+* [33mcommit 3cd0241b04e6a3a93c997906888b613629704467[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+[31m|[m Author: chaitanya sonsale <chaitanyasonsale@gmail.com>
+[31m|[m Date:   Sun Mar 31 17:15:12 2019 +0530
+[31m|[m 
+[31m|[m     revision of earlier lesson
+[31m|[m 
+* [33mcommit 0a741de3bdaabd11821d8301c085d7955cb457b0[m
+[31m|[m Author: chaitanya sonsale <chaitanyasonsale@gmail.com>
+[31m|[m Date:   Sun Mar 31 15:44:39 2019 +0530
+[31m|[m 
+[31m|[m     info about git checkout
+[31m|[m   
+[31m|[m * [33mcommit 88e26d5b96c124f04d0deac618557fe4f91f9e2b[m[33m ([m[1;32mstash-branch[m[33m)[m
+[31m|[m [32m|[m Author: chaitanya sonsale <chaitanyasonsale@gmail.com>
+[31m|[m [32m|[m Date:   Sun Mar 31 15:39:58 2019 +0530
+[31m|[m [32m|[m 
+[31m|[m [32m|[m     add info about stash command
+[31m|[m [32m|[m 
+[31m|[m * [33mcommit f7c0b9fddd134889c98a5e6222196030bdfb414a[m[33m ([m[1;32mnew-branch[m[33m)[m
+[31m|[m [32m|[m Author: chaitanya sonsale <chaitanyasonsale@gmail.com>
+[31m|[m [32m|[m Date:   Sun Mar 31 15:36:24 2019 +0530
+[31m|[m [32m|[m 
+[31m|[m [32m|[m      Add git checkout command to readme
+[31m|[m [32m|[m 
+[31m|[m * [33mcommit d7e2e51e402cc5695043894e94d211b05092afab[m
+[31m|[m[31m/[m  Author: chaitanya sonsale <chaitanyasonsale@gmail.com>
+[31m|[m   Date:   Sun Mar 31 15:14:08 2019 +0530
+[31m|[m   
+[31m|[m       Add info about heads, branches and ref
+[31m|[m     
+[31m|[m *   [33mcommit 09a97c8adab2e132d92b7a2e0c976fce6fa90658[m[33m ([m[1;35mrefs/stash[m[33m)[m
+[31m|[m [31m|[m[34m\[m  Merge: 3baa44b 7f95cb3
+[31m|[m[31m/[m [34m/[m  Author: chaitanya sonsale <chaitanyasonsale@gmail.com>
+[31m|[m [34m|[m   Date:   Sun Mar 31 15:18:03 2019 +0530
+[31m|[m [34m|[m   
+[31m|[m [34m|[m       WIP on master: 3baa44b  Info about how to add a commit message.
+[31m|[m [34m|[m 
+[31m|[m * [33mcommit 7f95cb34b1236582f310c39c47245b094a1387ec[m
+[31m|[m[31m/[m  Author: chaitanya sonsale <chaitanyasonsale@gmail.com>
+[31m|[m   Date:   Sun Mar 31 15:18:03 2019 +0530
+[31m|[m   
+[31m|[m       index on master: 3baa44b  Info about how to add a commit message.
+[31m|[m   
+[31m|[m * [33mcommit 6aa079905c4b9f5ada38758df75e6dfe1ae9f541[m[33m ([m[1;32mfirst-branch[m[33m)[m
+[31m|[m[31m/[m  Author: chaitanya sonsale <chaitanyasonsale@gmail.com>
+[31m|[m   Date:   Sun Mar 31 14:59:53 2019 +0530
+[31m|[m   
+[31m|[m       committing changes to a different branch
+[31m|[m 
+* [33mcommit 3baa44be027a23b7bbd96dd3e8092e30aec29c5d[m
+[35m|[m Author: chaitanya sonsale <chaitanyasonsale@gmail.com>
+[35m|[m Date:   Sun Mar 31 14:48:37 2019 +0530
+[35m|[m 
+[35m|[m      Info about how to add a commit message.
+[35m|[m 
+* [33mcommit 5bd366883659a117dac7b455b535abcff9c6c62e[m
+[35m|[m Author: chaitanya sonsale <chaitanyasonsale@gmail.com>
+[35m|[m Date:   Sun Mar 31 14:42:01 2019 +0530
+[35m|[m 
+[35m|[m     add a message about what we have learnt so far
+[35m|[m 
+* [33mcommit 12de8b39427ac8682d09ecd98ce93b93c0571680[m
+  Author: chaitanya sonsale <chaitanyasonsale@gmail.com>
+  Date:   Sun Mar 31 14:35:58 2019 +0530
+  
+      Create some files to practice GIT commit
