@@ -14,6 +14,7 @@
 -git checkout -b: create branch then checkout
 -git push
 -git remote -V
+-git fetch
 
 ## What is a branch
 
