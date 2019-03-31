@@ -23,3 +23,5 @@ Or use 'git commit -m ""'
 a fast forward merge happens when the target branch was merged from the current branch and there are no changes in the current branch since then
 
 adding info about merge to check if merge works correctly..again
+
+adding info and going to delete merge-demo branch
