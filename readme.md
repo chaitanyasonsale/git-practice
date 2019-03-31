@@ -7,6 +7,9 @@
 -git commit
 -git config
 -git branch
+-git stash
+-git stash list
+-git stash pop
 -git checkout: check out( update head)
 -git checkout -b: create branch then checkout
 
