@@ -6,6 +6,12 @@
 -git add:
 -git commit
 -git config
+-git branch
+-git checkout -b: create branch then checkout
+
+## What is a branch
+
+## What is a reference
 
 ## commit messages
 
