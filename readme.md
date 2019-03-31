@@ -6,9 +6,10 @@
 -git add:
 -git commit
 -git config
-
+-git show: show the details of a single commit
+-git dif: show the diff between working dir and committed code, or between staging area and committed code or between 2 different commits
 -git checkout: check out branches and apply changesto working directory.
-- git revision: 
+## git revision: not a command
 ## commit messages
 
 Default editor is vim
