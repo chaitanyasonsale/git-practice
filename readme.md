@@ -7,7 +7,12 @@
 -git commit
 -git config
 -git branch
--git checkout
+-git checkout: check out( update head)
+-git checkout -b: create branch then checkout
+
+## What is a branch
+
+## What is a reference
 
 -git checkout: check out branches and apply changesto working directory.
 - git revision:
