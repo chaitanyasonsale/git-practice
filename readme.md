@@ -11,6 +11,7 @@
 - git revision:
 -git merge: used for solving merge conflicts
 -git history: show a newer history of aka log of the file
+-git merge: Auto merge when GIT is able to reconcile the differences on its own.
 ## commit messages
 
 Default editor is vim
