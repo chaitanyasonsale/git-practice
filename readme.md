@@ -7,6 +7,7 @@
 -git commit
 -git config
 
+-git checkout: check out branches and apply changesto working directory.
 ## commit messages
 
 Default editor is vim
